@@ -1,0 +1,33 @@
+{
+  "name": "FP-demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcZhangTW/FP-demos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcZhangTW/FP-demos/issues"
+  },
+  "homepage": "https://github.com/dcZhangTW/FP-demos#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "typescript": "^3.5.3"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.0",
+    "@types/lodash": "^4.14.137",
+    "@types/mocha": "^5.2.7",
+    "@types/node": "^12.7.2",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "ts-node": "^8.3.0"
+  }
+}
